@@ -38,3 +38,10 @@ for (let value of colors) {
 colors.forEach(element => {
     console.log(element);
 });
+
+
+let dataMix= [5, "Ali", true, undefined];
+
+dataMix.forEach(element=>{
+    console.log(typeof element);
+});
