@@ -68,31 +68,31 @@ if (message.length > 10) {
 }
 ```
 
-Variables and Data Types
+## Variables and Data Types
 JavaScript has various data types, including numbers, strings, booleans, objects, and arrays. Variables can store these data types.
 
-Operators
+## Operators
 Learn about JavaScript's arithmetic, comparison, and logical operators to manipulate data and control program flow.
 
-Control Structures
+## Control Structures
 Explore conditionals (if statements, switch), loops (for, while), and more for controlling the flow of your JavaScript code.
 
-Functions
+## Functions
 Functions allow you to group code into reusable blocks. Learn to define, call, and pass arguments to functions.
 
-Objects and Arrays
+## Objects and Arrays
 JavaScript offers objects and arrays to store and manipulate data. Understand how to work with these data structures.
 
-Document Object Model (DOM)
+## Document Object Model (DOM)
 Discover how to interact with HTML and modify web page content using JavaScript and the DOM.
 
-Asynchronous JavaScript
+## Asynchronous JavaScript
 Learn about asynchronous programming in JavaScript using callbacks, Promises, and async/await to handle tasks like fetching data from APIs.
 
-Common Mistakes
+## Common Mistakes
 Identify and avoid common pitfalls and mistakes that beginners often encounter when working with JavaScript.
 
-Resources
+## Resources
 Find additional resources, tutorials, and documentation to deepen your JavaScript knowledge.
 
 Feel free to explore the code examples, exercises, and challenges provided in this repository to practice and reinforce your JavaScript skills. Happy coding!
