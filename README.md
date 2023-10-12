@@ -17,6 +17,25 @@ Welcome to the "Introduction to JavaScript Programming" repository. In this guid
 - [Common Mistakes](#common-mistakes)
 - [Resources](#resources)
 
+# Introduction to JavaScript Programming
+
+Welcome to the "Introduction to JavaScript Programming" repository. In this guide, you will find everything you need to kickstart your journey into the world of JavaScript development.
+
+## Table of Contents
+
+- [What is JavaScript?](#what-is-javascript)
+- [Getting Started](#getting-started)
+- [Basic Syntax](#basic-syntax)
+- [Variables and Data Types](#variables-and-data-types)
+- [Operators](#operators)
+- [Control Structures](#control-structures)
+- [Functions](#functions)
+- [Objects and Arrays](#objects-and-arrays)
+- [Document Object Model (DOM)](#document-object-model-dom)
+- [Asynchronous JavaScript](#asynchronous-javascript)
+- [Common Mistakes](#common-mistakes)
+- [Resources](#resources)
+
 ## What is JavaScript?
 
 JavaScript is a versatile and widely-used programming language that allows you to add interactivity and dynamic behavior to web pages. It is primarily used for front-end web development but can also be employed on the server-side using technologies like Node.js.
@@ -46,7 +65,8 @@ if (message.length > 10) {
   console.log("The message is long.");
 } else {
   console.log("The message is short.");
-} ```
+}
+
 
 Variables and Data Types
 JavaScript has various data types, including numbers, strings, booleans, objects, and arrays. Variables can store these data types.
