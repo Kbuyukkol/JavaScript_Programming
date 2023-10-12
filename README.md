@@ -46,7 +46,8 @@ if (message.length > 10) {
   console.log("The message is long.");
 } else {
   console.log("The message is short.");
-}
+} ```
+
 Variables and Data Types
 JavaScript has various data types, including numbers, strings, booleans, objects, and arrays. Variables can store these data types.
 
