@@ -11,3 +11,5 @@ let stateOfTheWebPage = function (state) {
 console.log(stateOfTheWebPage(true).then(function(result){
     console.log(result);
 }));
+
+
