@@ -38,18 +38,19 @@ for (let key in course) {
   console.log(key + " :" + course[key]);
 }
 
-let myCar ={
-    make : 'Renault',
-    year : 2023,
-    engine: {
-        cylinders : 3,
-        size: 2.0
-    },
-    extras: ['AC', 'Cruise Control'],
-    drive : function () {
-        console.log("Running on LPG");
-    }
-}
+let myCar = {
+  make: "Renault",
+  year: 2023,
+  engine: {
+    cylinders: 3,
+    size: 2.0,
+  },
+  extras: ["AC", "Cruise Control"],
+  drive: function () {
+    //called method : function in objects
+    console.log("Running on LPG");
+  },
+};
 
 myCar.drive();
 

@@ -1,3 +1,8 @@
+// var--> function
+
+// let--> block
+// const--> block
+
 console.log("hello world");
 
 // single comment

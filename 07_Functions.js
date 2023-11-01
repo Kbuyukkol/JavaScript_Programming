@@ -1,3 +1,5 @@
+// Functions are objects in JS
+
 function add(a,b) {
     console.log(a+b);
 };
