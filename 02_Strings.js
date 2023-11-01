@@ -50,5 +50,11 @@ console.log(word.toLowerCase()); //javascript programming
 //replace
 console.log(word.replace('Script','')); //Java Programming
 
+console.log("------------------------Iterating--------------------");
 
+let word2= "Config";
+
+for (let char of word2) {
+    console.log(char);
+}
 
